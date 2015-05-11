@@ -16,14 +16,12 @@ Remember wotk with TDD!
 <%= basic_paginate @posts %>
 ```
 
-And that's it! You're done. You just need to add some CSS styles to [make those pagination links prettier][css].
+And that's it! You're done. You just need to add some CSS styles to [make those pagination links prettier](http://mislav.uniqpath.com/will_paginate/)
 
 Happy paginating.
 
-Some inspiraion guides:
+Some inspiration guides:
 
-[wiki]: https://github.com/mislav/will_paginate/wiki
-[install]: https://github.com/mislav/will_paginate/wiki/Installation "will_paginate installation"
-[group]: http://groups.google.com/group/will_paginate "will_paginate discussion and support group"
-[issues]: https://github.com/mislav/will_paginate/issues
-[css]: http://mislav.uniqpath.com/will_paginate/
+- [will_paginate wiki](https://github.com/mislav/will_paginate/wiki)
+- [css](http://mislav.uniqpath.com/will_paginate/)
+- [kaminari](https://github.com/amatsuda/kaminari)
