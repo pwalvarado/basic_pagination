@@ -43,3 +43,14 @@ group :development, :test do
   gem 'spring'
 end
 
+group :test do
+  gem 'rspec-rails'
+  gem 'factory_girl_rails'
+  gem 'faker'
+  gem 'database_cleaner'
+  gem 'guard-rspec'
+  gem 'capybara'
+  gem 'launchy'
+  gem 'selenium-webdriver'
+  gem 'simplecov', require: false
+end
